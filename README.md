@@ -44,5 +44,4 @@
 * It will show response as Password changed successfully
 * That's it, the password is changed successfully and now you can login with the new password.
 
-## Deployed Live Server:
--[Password-Reset](https://passwordresetbyfabianrajafernando.netlify.app/)
+ 
